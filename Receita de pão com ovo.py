@@ -13,4 +13,4 @@ print("Coloque o ovo frito no pão")
 
 print("Aprecie!!!")
 
-print("Opcional: orégano")
+print("Opcional: orégano e/ou sal")
